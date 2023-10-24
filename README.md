@@ -117,7 +117,7 @@ The document has moved
 
 #### 2.3.2 浏览器
 示例中使用Chrome浏览器，浏览器使用系统代理，再将系统代理配置为使用socks5协议。
-![setup](https://github.com/liruonian/socks5/blob/master/imgs/setup.png)
+![setup](https://p.ipic.vip/5f675s.png)
 
 配置完成即可正常使用代理服务。
-![google](https://github.com/liruonian/socks5/blob/master/imgs/google.png)
+![google](https://p.ipic.vip/zyxemi.png)
